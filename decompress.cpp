@@ -7,11 +7,12 @@ signed main()
     // Boost;
     // IO();
     // ifstream inFile("input.txt");
-    ifstream inFile("output.txt");
+    ifstream inFile("compressed.txt");
 
     // ofstream outFile("IR.txt");
 //3
-    ofstream outFile("input.txt");
+    // ofstream outFile("input.txt");
+    ofstream outFile("decompressed.txt");
     // ofstream outFile("output.txt");
     
     unordered_map<string,char> mp;

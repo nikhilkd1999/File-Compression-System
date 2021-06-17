@@ -145,10 +145,12 @@ signed main()
 
     // ifstream inFile("IR.txt");
 
-    ifstream inFile("input.txt");
+    // ifstream inFile("input.txt");
+    ifstream inFile("sampleInput.txt");
     // ifstream inFile("output.txt");
 //4
-    ofstream outFile("output.txt");
+    // ofstream outFile("output.txt");
+    ofstream outFile("compressed.txt");
     // ofstream outFile("input.txt");
 
 
