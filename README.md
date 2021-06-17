@@ -28,6 +28,6 @@ You will get the decomppressed.txt file;
 
 
 
-## Screenshot\
+## Screenshot
 
 <img src="screenshot.png">
